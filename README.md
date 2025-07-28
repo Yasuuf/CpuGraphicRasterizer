@@ -1,6 +1,6 @@
 # CPU only graphic processor
 ### Using c++,cmake, pure math and putPixel equivalent in openGL
-### Rntire game engine processes runs only on cpu (But multi threaded)
+### Entire game engine processes runs only on cpu (But multi threaded)
 ### Implemented graphic pipeline + rasterizer on cpu
 
 <br/>
